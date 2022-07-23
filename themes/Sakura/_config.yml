@@ -12,7 +12,7 @@ pjax: 1
 mathjax: 0
 
 notice: Create By l4ru3 Recently
-lazyloadImg: https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/loader/orange.progress-bar-stripe-loader.svg
+lazyloadImg: https://cdn.jsdelivr.net/gh/L4rue/PicGoCDN/img/loader/orange.progress-bar-stripe-loader.svg
 
 menus:
   首页: { path: /, fa: fa-fort-awesome faa-shake }
@@ -47,14 +47,14 @@ homePageSortType: -1
 homeArticleShown: 10
 # 背景图片 更好的修改
 bg:
-  - https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/cover/(1).jpg.webp
-  - https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/cover/(2).jpg.webp
-  - https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/cover/(3).jpg.webp
-  - https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/cover/(4).jpg.webp
-  - https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/cover/(5).jpg.webp
-  - https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/cover/(6).jpg.webp
-  - https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/cover/(7).jpg.webp
-  - https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/cover/(8).jpg.webp
+  - https://cdn.jsdelivr.net/gh/L4rue/PicGoCDN/img/cover/(1).jpg.webp
+  - https://cdn.jsdelivr.net/gh/L4rue/PicGoCDN/img/cover/(2).jpg.webp
+  - https://cdn.jsdelivr.net/gh/L4rue/PicGoCDN/img/cover/(3).jpg.webp
+  - https://cdn.jsdelivr.net/gh/L4rue/PicGoCDN/img/cover/(4).jpg.webp
+  - https://cdn.jsdelivr.net/gh/L4rue/PicGoCDN/img/cover/(5).jpg.webp
+  - https://cdn.jsdelivr.net/gh/L4rue/PicGoCDN/img/cover/(6).jpg.webp
+  - https://cdn.jsdelivr.net/gh/L4rue/PicGoCDN/img/cover/(7).jpg.webp
+  - https://cdn.jsdelivr.net/gh/L4rue/PicGoCDN/img/cover/(8).jpg.webp
 
 # 背景图片样式 空 原图效果 filter-dim 阴影 filter-grid 横条 filter-dot 点点
 bgclass: filter-dot

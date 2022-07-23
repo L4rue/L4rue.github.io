@@ -1,7 +1,7 @@
 ---
 title: Hexo-Theme-Sakura
 author: hojun
-avatar: https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/custom/avatar.jpg
+avatar: https://cdn.jsdelivr.net/gh/L4rue/PicGoCDN/img/custom/avatar.jpg
 authorLink: hojun.cn
 authorAbout: 一个好奇的人
 authorDesc: 一个好奇的人
@@ -46,7 +46,7 @@ hexo-theme-sakura主题 [English document](https://github.com/honjun/hexo-theme-
 ## 赞赏作者
 如果喜欢hexo-theme-sakura主题，可以考虑资助一下哦~非常感激！
 
-[paypal](https://www.paypal.me/hojuncn) | [Alipay 支付宝](https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/custom/donate/AliPayQR.jpg) | [WeChat Pay 微信支付](https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/custom/donate/WeChanSQ.jpg)
+[paypal](https://www.paypal.me/hojuncn) | [Alipay 支付宝](https://cdn.jsdelivr.net/gh/L4rue/PicGoCDN/img/custom/donate/AliPayQR.jpg) | [WeChat Pay 微信支付](https://cdn.jsdelivr.net/gh/L4rue/PicGoCDN/img/custom/donate/WeChanSQ.jpg)
 
 ## 未完善的使用教程
 
@@ -116,8 +116,8 @@ url: https://sakura.hojun.cn
 # 站点介绍（或者说是个人签名）【改】
 description: Live your life with passion! With some drive!
 
-# 站点cdn，没有就为空 【改】  若是cdn为空，一些图片地址就要填完整地址了，比如之前avatar就要填https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/custom/avatar.jpg
-cdn: https://cdn.jsdelivr.net/gh/honjun/cdn@1.6
+# 站点cdn，没有就为空 【改】  若是cdn为空，一些图片地址就要填完整地址了，比如之前avatar就要填https://cdn.jsdelivr.net/gh/L4rue/PicGoCDN/img/custom/avatar.jpg
+cdn: https://cdn.jsdelivr.net/gh/L4rue/PicGoCDN
 
 # 开启pjax 【选】
 pjax: 1
@@ -126,7 +126,7 @@ pjax: 1
 notice: hexo-Sakura主题已经开源，目前正在开发中...
 
 # 懒加载的加载中图片 【选】
-lazyloadImg: https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/loader/orange.progress-bar-stripe-loader.svg
+lazyloadImg: https://cdn.jsdelivr.net/gh/L4rue/PicGoCDN/img/loader/orange.progress-bar-stripe-loader.svg
 
 # 站点菜单配置 【选】
 menus:
@@ -240,17 +240,17 @@ v_appKey: mgOpfzbkHYqU92CV4IDlAUHQ
     # 英文标题
     en: Geek – Only for Love
     # 封面图片
-    img: https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/banner/coding.jpg
+    img: https://cdn.jsdelivr.net/gh/L4rue/PicGoCDN/img/banner/coding.jpg
 生活:
     zh: 生活
     en: live
-    img: https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/banner/writing.jpg
+    img: https://cdn.jsdelivr.net/gh/L4rue/PicGoCDN/img/banner/writing.jpg
 
 #tag
 # 标签名即是标题
 悦读:
     # 封面图片
-    img: https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/banner/reading.jpg
+    img: https://cdn.jsdelivr.net/gh/L4rue/PicGoCDN/img/banner/reading.jpg
 ```
 
 ## 单页面封面配置

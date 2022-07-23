@@ -3,10 +3,10 @@ prefixName: さくら荘その
 siteName: l4ru3
 # favicon and site master avatar
 favicon: /images/favicon.ico
-avatar: /img/custom/avatar.jpg
+avatar: /img/银.jpg
 url: https://larue.top
 description: Sing for me ~
-cdn: https://cdn.jsdelivr.net/gh/honjun/cdn@1.6
+cdn: https://cdn.jsdelivr.net/gh/L4rue/PicGoCDN
 pjax: 1
 # 1开启
 mathjax: 0

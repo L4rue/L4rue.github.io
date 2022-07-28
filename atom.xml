@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="/"/>
-  <updated>2022-07-27T12:23:09.290Z</updated>
+  <updated>2022-07-28T13:28:55.105Z</updated>
   <id>/</id>
   
   <author>
@@ -15,6 +15,24 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>npm waring solution</title>
+    <link href="/2022/07/28/%E5%85%B3%E4%BA%8Enpm%E5%87%BA%E7%8E%B0-npm-WARN-config-global-global-local-are-deprecated-%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/"/>
+    <id>/2022/07/28/关于npm出现-npm-WARN-config-global-global-local-are-deprecated-的解决方案/</id>
+    <published>2022-07-28T12:28:46.000Z</published>
+    <updated>2022-07-28T13:28:55.105Z</updated>
+    
+    <summary type="html">
+    
+      关于npm出现npm WARN config global --global, --local are deprecated的解决方案
+    
+    </summary>
+    
+      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>Hexo-Theme-Sakura</title>
